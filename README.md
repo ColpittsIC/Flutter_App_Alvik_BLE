@@ -9,3 +9,4 @@ Once Connected:
 ## Getting Started
 
 Alvik need to be programmed with my custom script in order to be used with this app.
+Alvik custom firmware can be found on my repository.
