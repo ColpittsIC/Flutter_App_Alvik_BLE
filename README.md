@@ -2,8 +2,8 @@
 
 This app connect to your Alvik using BLE.
 Once Connected:
--You can read on screen all the data from IMU and the analog position values of the joystick
--You can drive alvik using a joystick and trigger an action using the button
+- You can read on screen all the data from IMU and the analog position values of the joystick
+- You can drive alvik using a joystick and trigger an action using the button
 
 
 ## Getting Started
